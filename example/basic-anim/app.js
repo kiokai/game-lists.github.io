@@ -1,5 +1,5 @@
-import Stage from '../../src';
-import '../common/texture';
+import Stage from '../../src.js';
+import '../common/texture.js';
 
 Stage(function(stage) {
 
